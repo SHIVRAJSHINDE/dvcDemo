@@ -1,0 +1,4 @@
+[core]
+    remote = fileremote
+['remote "fileremote"']
+    url = D:\MachineLearningProjects\PROJECT\ZDatasets\dvcStorage
